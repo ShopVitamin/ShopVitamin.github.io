@@ -10,17 +10,19 @@
     },
     "items": [
         {
-            "id": "https://shopvitamin.github.io/test.html",
-            "url": "https://shopvitamin.github.io/test.html",
-            "title": "Test",
+            "id": "https://shopvitamin.github.io/gioi-thieu.html",
+            "url": "https://shopvitamin.github.io/gioi-thieu.html",
+            "title": "Giới Thiệu",
             "content_html": "<p><img class=\"post__image\" src=\"https://shopvitamin.github.io/media/posts/1/playstore-header-sm.png\" alt=\"\" width=\"1280\" height=\"720\"></p>",
+            "image": "https://shopvitamin.github.io/media/posts/1/playstore-header-sm-2.png",
             "author": {
                 "name": "Gabriel"
             },
             "tags": [
+                   "about"
             ],
             "date_published": "2020-06-13T15:38:08+07:00",
-            "date_modified": "2020-06-13T15:38:08+07:00"
+            "date_modified": "2020-06-13T16:08:43+07:00"
         }
     ]
 }
