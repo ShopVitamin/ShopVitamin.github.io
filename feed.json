@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://github.com/ShopVitamin/ShopVitamin.github.io/test.html",
-            "url": "https://github.com/ShopVitamin/ShopVitamin.github.io/test.html",
+            "id": "https://github.com/ShopVitamin/ShopVitamin.github.io/test/",
+            "url": "https://github.com/ShopVitamin/ShopVitamin.github.io/test/",
             "title": "Test",
             "content_html": "<p><img class=\"post__image\" src=\"https://github.com/ShopVitamin/ShopVitamin.github.io/media/posts/1/playstore-header-sm.png\" alt=\"\" width=\"1280\" height=\"720\"></p>",
             "author": {
