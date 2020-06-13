@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>vitamins</title>
-    <link href=".//feed.xml" rel="self" />
-    <link href="./" />
-    <updated>2020-06-13T15:57:38+07:00</updated>
+    <link href="https://shopvitamin.github.io/feed.xml" rel="self" />
+    <link href="https://shopvitamin.github.io" />
+    <updated>2020-06-13T15:59:56+07:00</updated>
     <author>
         <name>Gabriel</name>
     </author>
-    <id>./</id>
+    <id>https://shopvitamin.github.io</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Gabriel</name>
         </author>
-        <link href=".//test/"/>
-        <id>.//test/</id>
+        <link href="https://shopvitamin.github.io/test/"/>
+        <id>https://shopvitamin.github.io/test/</id>
 
         <updated>2020-06-13T15:38:08+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src=".//media/posts/1/playstore-header-sm.png" alt="" width="1280" height="720"></p>
+                <p><img class="post__image" src="https://shopvitamin.github.io/media/posts/1/playstore-header-sm.png" alt="" width="1280" height="720"></p>
             ]]>
         </content>
     </entry>
