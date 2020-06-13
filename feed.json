@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "vitamins",
     "description": "",
-    "home_page_url": "https://github.com/ShopVitamin/ShopVitamin.github.io",
-    "feed_url": "https://github.com/ShopVitamin/ShopVitamin.github.io/feed.json",
+    "home_page_url": "./",
+    "feed_url": ".//feed.json",
     "user_comment": "",
     "author": {
         "name": "Gabriel"
     },
     "items": [
         {
-            "id": "https://github.com/ShopVitamin/ShopVitamin.github.io/test/",
-            "url": "https://github.com/ShopVitamin/ShopVitamin.github.io/test/",
+            "id": ".//test/",
+            "url": ".//test/",
             "title": "Test",
-            "content_html": "<p><img class=\"post__image\" src=\"https://github.com/ShopVitamin/ShopVitamin.github.io/media/posts/1/playstore-header-sm.png\" alt=\"\" width=\"1280\" height=\"720\"></p>",
+            "content_html": "<p><img class=\"post__image\" src=\".//media/posts/1/playstore-header-sm.png\" alt=\"\" width=\"1280\" height=\"720\"></p>",
             "author": {
                 "name": "Gabriel"
             },
